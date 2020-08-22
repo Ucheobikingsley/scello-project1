@@ -2,7 +2,7 @@
   "development": {
     "username": "root",
     "password": "password",
-    "database": "scellodb",
+    "database": "scello",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "operatorAliases": "false"
